@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: public/images/uploads
+public_folder: /images/uploads
+
+locale: cs
+
+collections:
+  - name: blog
+    label: Články
+    folder: src/content/blog
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Nadpis, name: title, widget: string }
+      - { label: Popis (krátký), name: description, widget: string }
+      - { label: Datum, name: pubDate, widget: datetime, format: "YYYY-MM-DD", date_format: "DD. MM. YYYY", time_format: false }
+      - label: Kategorie
+        name: category
+        widget: select
+        options:
+          - Niterní pocity
+          - Wellness
+          - Recepty
+          - Jóga & pohyb
+          - Každodenní život
+          - Jiné
+        required: false
+      - { label: Titulní fotka, name: heroImage, widget: image, required: false }
+      - { label: Obsah článku, name: body, widget: markdown }
