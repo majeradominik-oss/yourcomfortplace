@@ -1,0 +1,180 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="cs">
+  <head>
+    <BaseHead title="Kdo jsem · Your Comfort Place" description="Ahoj, jsem Sabi." />
+  </head>
+  <body>
+    <nav class="nav">
+      <a href="/" class="logo">your comfort place</a>
+      <div class="nav-links">
+        <a href="/">vítej</a>
+        <a href="/blog">prozkoumej</a>
+        <a href="/o-mne" class="active">kdo jsem</a>
+      </div>
+    </nav>
+
+    <main class="main">
+      <div class="about-grid">
+        <div class="photo-col">
+          <img src="/images/sabi-2.jpg" alt="Sabina Černá" class="photo" />
+        </div>
+
+        <div class="text-col">
+          <span class="star" aria-hidden="true">✳</span>
+          <h1 class="heading">Ahoj, jsem Sabi.</h1>
+
+          <div class="prose">
+            <p>Už od střední školy mě zajímala lidská psychika, emoce a vždy jsem byla empatická a braná jako citlivá. Zároveň miluji tvorbu, estetiku a komunikaci. Mezi těmito světy se pohybuji nejraději.</p>
+
+            <p>Profesně se věnuji marketingu a kreativní tvorbě, ale velkou část svého času trávím studiem témat spojených s wellness a osobním rozvojem. Baví mě tyhle dvě části mě propojovat v každodenním životě i v práci.</p>
+
+            <p>Píšu už dlouho. Převážně do deníku, ať už fyzického nebo virtuálního. A vždy jsem si přála, aby si to mohl někdo přečíst a našel si v tom to svoje. Ať už je to cokoliv. Před pár lety jsem si v počítači pro tyto moje texty vytvořila složku s názvem „Your Comfort Place" (pod tajnou zkratkou YCP). Díky tomu jsem se mohla vypsat. Nebo si číst texty zpětně. Reflektovat, dostat to ven ze sebe. A cítit se lépe.</p>
+
+            <p>Tak bych chtěla, aby působil i tento blog. Jako bezpečný prostor. Jak pro mě, tak pro tebe. Najdeš tu myšlenky, zkušenosti a otázky, které ke mně přicházejí. O emocích, vztahu k sobě, psychické pohodě, wellness, kreativitě i každodennosti života. Třeba sem hodím i nějaký recept.</p>
+
+            <p class="closing">Jsem ráda, že tu jsi.</p>
+          </div>
+
+          <a href="https://instagram.com/cerna.sabi" target="_blank" class="ig-banner">
+            <div class="ig-left">
+              <span class="ig-handle">@cerna.sabi</span>
+              <span class="ig-desc">Instagram · každodenní zápisky</span>
+            </div>
+            <span class="ig-arrow">→</span>
+          </a>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <span class="footer-text">© 2026 Your Comfort Place · Sabina Černá</span>
+      <a href="https://instagram.com/cerna.sabi" target="_blank" class="footer-text footer-ig">@cerna.sabi</a>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 32px;
+    background: var(--sb);
+  }
+  .logo { font-family: var(--font-sans); font-size: 14px; letter-spacing: 0.08em; color: var(--sb-muted); font-weight: 400; }
+  .nav-links { display: flex; gap: 28px; }
+  .nav-links a { font-size: 14px; color: var(--sb-muted); }
+  .nav-links a.active { color: var(--sb-brown); }
+  .nav-links a:hover { color: var(--sb-text); }
+
+  .main {
+    padding: 56px 32px 80px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 64px;
+    align-items: start;
+  }
+
+  .photo-col { position: sticky; top: 32px; }
+
+  .photo {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    border-radius: 3px;
+    display: block;
+  }
+
+  .text-col { padding-top: 8px; }
+
+  .star {
+    font-size: 20px;
+    color: var(--sb-muted);
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .heading {
+    font-family: var(--font-serif);
+    font-size: 52px;
+    font-weight: 300;
+    line-height: 1.1;
+    color: var(--sb-text);
+    margin: 0 0 36px;
+  }
+
+  .prose p {
+    font-size: 16px;
+    line-height: 1.85;
+    color: var(--sb-text);
+    margin-bottom: 1.4em;
+  }
+
+  .closing {
+    font-family: var(--font-serif);
+    font-size: 20px !important;
+    font-style: italic;
+    color: var(--sb-mid) !important;
+  }
+
+  .ig-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 20px 24px;
+    border: 0.5px solid var(--sb-border);
+    border-radius: 3px;
+    background: var(--sb-card);
+    transition: border-color 0.15s;
+  }
+  .ig-banner:hover { border-color: var(--sb-mid); }
+
+  .ig-left { display: flex; flex-direction: column; gap: 4px; }
+
+  .ig-handle {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--sb-text);
+    letter-spacing: 0.02em;
+  }
+
+  .ig-desc {
+    font-size: 12px;
+    color: var(--sb-muted);
+    letter-spacing: 0.04em;
+  }
+
+  .ig-arrow {
+    font-size: 18px;
+    color: var(--sb-muted);
+  }
+
+  .footer {
+    padding: 20px 32px;
+    border-top: 0.5px solid var(--sb-border);
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-text { font-size: 14px; color: var(--sb-muted); }
+  .footer-ig:hover { color: var(--sb-brown); }
+
+  @media (max-width: 720px) {
+    .nav { padding: 14px 16px; }
+    .main { padding: 32px 16px 56px; }
+    .about-grid { grid-template-columns: 1fr; gap: 32px; }
+    .photo-col { position: static; }
+    .heading { font-size: 36px; }
+    .footer { padding: 16px; flex-direction: column; gap: 8px; }
+  }
+</style>
