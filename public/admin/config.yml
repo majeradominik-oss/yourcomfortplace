@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
+site_url: https://tranquil-youtiao-5be8a4.netlify.app
+
 media_folder: public/images/uploads
 public_folder: /images/uploads
 
