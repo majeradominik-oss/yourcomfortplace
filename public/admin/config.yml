@@ -23,11 +23,11 @@ collections:
         name: category
         widget: select
         options:
-          - Niterní pocity
           - Wellness
-          - Recepty
-          - Jóga & pohyb
-          - Každodenní život
+          - Z myšlenek
+          - Každodennost
+          - Cooking diaries
+          - Doporučení
           - Jiné
         required: false
       - { label: Titulní fotka, name: heroImage, widget: image, required: false }
