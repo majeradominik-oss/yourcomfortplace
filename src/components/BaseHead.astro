@@ -57,15 +57,17 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
 
 <!-- Netlify Identity -->
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('load', function() {
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", function(user) {
+        if (!user) {
+          window.netlifyIdentity.on("login", function() {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  });
 </script>
