@@ -105,40 +105,41 @@ function formatDate(date: Date) {
     max-width: 520px;
   }
   .hero-star {
-    font-size: 13px;
+    font-size: 20px;
     color: var(--sb-muted);
-    margin-bottom: 24px;
+    margin-bottom: 28px;
     display: block;
   }
   .hero-h1 {
     font-family: var(--font-serif);
-    font-size: 64px;
+    font-size: 72px;
     line-height: 1.05;
     color: var(--sb-text);
     font-weight: 300;
     margin: 0 0 24px;
   }
   .hero-desc {
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.7;
     color: var(--sb-muted);
     margin: 0 0 6px;
   }
   .hero-name {
-    font-family: var(--font-serif);
-    font-size: 15px;
-    color: var(--sb-mid);
-    font-style: italic;
+    font-family: var(--font-sans);
+    font-size: 14px;
+    color: var(--sb-muted);
+    font-style: normal;
+    font-weight: 300;
     margin: 0 0 32px;
   }
   .hero-cta {
-    font-size: 11px;
-    letter-spacing: 0.12em;
+    font-size: 13px;
+    letter-spacing: 0.08em;
     color: var(--sb-muted);
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    padding: 9px 20px;
+    padding: 11px 24px;
     border-radius: 20px;
     border: 0.5px solid var(--sb-border);
     transition: border-color 0.15s, color 0.15s;
@@ -148,7 +149,7 @@ function formatDate(date: Date) {
   .section { padding: 44px 32px; }
 
   .label {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 0.16em;
     text-transform: uppercase;
     color: var(--sb-muted);
@@ -194,7 +195,7 @@ function formatDate(date: Date) {
   .card-body { padding: 18px; }
 
   .tag {
-    font-size: 9px;
+    font-size: 10px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--sb-brown);
@@ -207,7 +208,7 @@ function formatDate(date: Date) {
 
   .card-title {
     font-family: var(--font-serif);
-    font-size: 20px;
+    font-size: 22px;
     line-height: 1.3;
     color: var(--sb-text);
     font-weight: 300;
@@ -216,10 +217,10 @@ function formatDate(date: Date) {
   }
 
   .card-excerpt {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.6;
     color: var(--sb-muted);
-    margin: 0 0 14px;
+    margin: 0 0 16px;
   }
 
   .card-meta {
@@ -227,13 +228,20 @@ function formatDate(date: Date) {
     justify-content: space-between;
     align-items: center;
   }
-  .date { font-size: 10px; color: var(--sb-muted); }
+  .date { font-size: 12px; color: var(--sb-muted); }
   .read {
-    font-size: 10px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.08em;
     color: var(--sb-brown);
+    border: 0.5px solid var(--sb-border);
+    padding: 6px 14px;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: border-color 0.15s, color 0.15s;
   }
+  .card:hover .read { border-color: var(--sb-mid); }
 
   .footer {
     padding: 20px 32px;
