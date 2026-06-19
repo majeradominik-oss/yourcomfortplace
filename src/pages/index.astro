@@ -32,11 +32,11 @@ function formatDate(date: Date) {
 
     <section class="hero">
       <div class="hero-inner">
-        <span class="hero-star" aria-hidden="true">✳</span>
+        <span class="hero-star" aria-hidden="true">✳︎</span>
         <h1 class="hero-h1">Zpomal<br>se mnou</h1>
         <p class="hero-desc">Místo pro myšlenky, pocity, wellness a pomalé tempo.</p>
         <p class="hero-name">Sabina Černá</p>
-        <a href="/blog" class="hero-cta">Prozkoumej ✳</a>
+        <a href="/blog" class="hero-cta">Prozkoumej ✳︎</a>
       </div>
     </section>
 
@@ -57,7 +57,7 @@ function formatDate(date: Date) {
               <p class="card-excerpt">{post.data.description}</p>
               <div class="card-meta">
                 <span class="date">{formatDate(post.data.pubDate)}</span>
-                <span class="read">Číst dál ✳</span>
+                <span class="read">Číst dál ✳︎</span>
               </div>
             </div>
           </a>
@@ -244,17 +244,16 @@ function formatDate(date: Date) {
   .footer-ig:hover { color: var(--sb-brown); }
 
   @media (max-width: 680px) {
-    .nav { padding: 14px 16px; }
-    .hero { padding: 40px 16px 36px; }
-    .hero-h1 { font-size: 44px; }
-    .section { padding: 28px 16px; }
-    .article-row,
-    .article-row.reverse { grid-template-columns: 1fr; gap: 20px; }
-    .article-row.reverse .article-img { order: 0; }
-    .article-row.reverse .article-body { order: 1; padding-right: 0; }
-    .article-img { max-width: 100%; aspect-ratio: 4/3; }
-    .article-body { padding-left: 0; }
-    .article-title { font-size: 22px; }
+    .nav { padding: 12px 16px; }
+    .nav-links a { font-size: 11px; }
+    .logo { font-size: 11px; }
+    .hero { padding: 36px 16px 32px; }
+    .hero-h1 { font-size: 52px; }
+    .hero-desc { font-size: 15px; }
+    .section { padding: 24px 16px; }
+    .grid { grid-template-columns: 1fr; }
+    .card-title { font-size: 22px; }
+    .card-excerpt { font-size: 14px; }
     .footer { padding: 16px; flex-direction: column; gap: 8px; }
   }
 </style>
