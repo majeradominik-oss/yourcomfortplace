@@ -67,7 +67,7 @@ function formatDate(date: Date) {
 
     <footer class="footer">
       <span class="footer-text">© 2026 Your Comfort Place · Sabina Černá</span>
-      <span class="footer-text">@cerna.sabi</span>
+      <a href="https://instagram.com/cerna.sabi" target="_blank" class="footer-text footer-ig">@cerna.sabi</a>
     </footer>
   </body>
 </html>
@@ -240,7 +240,8 @@ function formatDate(date: Date) {
     display: flex;
     justify-content: space-between;
   }
-  .footer-text { font-size: 11px; color: var(--sb-muted); }
+  .footer-text { font-size: 14px; color: var(--sb-muted); }
+  .footer-ig:hover { color: var(--sb-brown); }
 
   @media (max-width: 680px) {
     .nav { padding: 14px 16px; }
