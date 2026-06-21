@@ -1,14 +1,20 @@
 ---
-title: "Vítej na mém blogu"
-description: "Tohle je místo, kde sdílím myšlenky, pocity a tipy na wellness — tak jak přicházejí, bez filtrů."
-pubDate: "2026-06-14"
-category: "Niterní pocity"
+title: Vítej na mém blogu
+description: Najdeš tu myšlenky, zkušenosti a otázky, které ke mně přicházejí. O
+  emocích, vztahu k sobě, psychické pohodě, wellness, kreativitě i každodennosti
+  života.
+pubDate: 2026-06-17
+category: Každodennost
+heroImage: /images/uploads/img_8127.jpeg
 ---
+Ahoj, jsem Sabi.
 
-Ahoj, jsem ráda, že jsi tady.
+Už od střední školy mě zajímala lidská psychika, emoce a vždy jsem byla empatická a braná jako citlivá. Zároveň miluji tvorbu, estetiku a komunikaci. Mezi těmito světy se pohybuji nejraději.
 
-Tohle místo vzniklo proto, aby existoval prostor, kde mohu být upřímná. Kde mohu psát o věcech, které cítím, ale někdy nedokážu říct nahlas. O wellness, o pomalém životě, o sobě.
+Profesně se věnuji marketingu a kreativní tvorbě, ale velkou část svého času trávím studiem témat spojených s wellness a osobním rozvojem. Baví mě tyhle dvě části mě propojovat v každodenním životě i v práci.
 
-Budu tu psát pravidelně. Tak jak mi to bude připadat přirozené.
+Píšu už dlouho. Převážně do deníku, ať už fyzického nebo virtuálního. A vždy jsem si přála, aby si to mohl někdo přečíst a našel si v tom to svoje. Ať už je to cokoliv. Před pár lety jsem si v počítači pro tyto moje texty vytvořila složku s názvem „Your Comfort Place" (pod tajnou zkratkou YCP). Díky tomu jsem se mohla vypsat. Nebo si číst texty zpětně. Reflektovat, dostat to ven ze sebe. A cítit se lépe.
 
-Vítej.
+Tak bych chtěla, aby působil i tento blog. Jako bezpečný prostor. Jak pro mě, tak pro tebe. Najdeš tu myšlenky, zkušenosti a otázky, které ke mně přicházejí. O emocích, vztahu k sobě, psychické pohodě, wellness, kreativitě i každodennosti života. Třeba sem hodím i nějaký recept.
+
+Jsem ráda, že tu jsi.
