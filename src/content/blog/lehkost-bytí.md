@@ -3,7 +3,7 @@ title: Lehkost bytí
 description: Všude v mém okolí slýchám o lehkosti bytí. V podcastech, článcích,
   na instagramu, všude je lehkost.
 pubDate: 2026-06-19
-category: Niterní pocity
+category: Z myšlenek
 heroImage: /images/uploads/img_4343.jpeg
 ---
 Všude v mém okolí slýchám o lehkosti bytí. V podcastech, článcích, na instagramu, všude je lehkost.
