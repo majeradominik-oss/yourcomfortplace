@@ -12,17 +12,6 @@
   --font-sans: 'Inter', system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --sb: #1C1008;
-    --sb-brown: #D4AA84;
-    --sb-mid: #C49A70;
-    --sb-card: #2C1A0E;
-    --sb-border: rgba(212, 170, 132, 0.2);
-    --sb-text: #EAE0D0;
-    --sb-muted: #A08060;
-  }
-}
 
 *, *::before, *::after {
   box-sizing: border-box;
