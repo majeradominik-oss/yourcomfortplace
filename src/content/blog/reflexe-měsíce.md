@@ -9,7 +9,7 @@ Zastavil/a ses nad tím, jaký byl tvůj měsíc? Neříkám, že to dělám pok
 
 Sdílím ti pár svých journaling otázek pro reflexi předchozího měsíce. A nejen měsíce, můžeš to využít pro den, celý rok nebo cokoliv jiného, kde se ti to bude hodit.
 
-✺ Jakým 1 slovem bych popsala tento měsíc?
+✺ Jakým 1 slovem bych popsal/a tento měsíc?
 
 ✺ Co mi dělalo tento měsíc radost?
 
