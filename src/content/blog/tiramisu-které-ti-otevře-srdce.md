@@ -10,52 +10,48 @@ Recept na tiramisu z růží, díky kterému podpoříš svůj klid, spánek i �
 
 Ingredience:
 
-Krém
+Krém:
 
-* 500 g mascarpone
-* 2 žloutky
-* 4 bílky
-* 2 lžičky jahodového džemu na 1 vrstvu krému
-* 3 lžíce medu
+\*500 g mascarpone
 
-Voda z růží *(na namáčení)*
+\*2 žloutky
 
-* 250 ml vlažné vody
-* 1 lžička Anima Mundi Rose Heart Opener
+\*4 bílky
 
-Základ
+\*2 lžičky jahodového džemu na 1 vrstvu krému
 
-* 12 - 15 piškotů
+\*3 lžíce medu
 
-Na vrch
+Voda z růží *(na namáčení):*
 
-* Anima Mundi Rose Heart Opener přes sítko
+\*250 ml vlažné vody
+
+\*1 lžička Anima Mundi Rose Heart Opener
+
+Základ:
+
+\*12 - 15 piškotů
+
+Na vrch:
+
+\*Anima Mundi Rose Heart Opener přes sítko
 
 ✺
 
 Postup:
 
-1. * Rozpusť prášek ve vlažné vodě, nech 5 minut stát. 
+1. Rozpusť prášek ve vlažné vodě, nech 5 minut stát. 
+2. Vyšlehej žloutky a bílky zvlášť v odlišných nádobách. K vyšlehaným žloutkům přidej mascarpone a med, šlehej do hladka. 
+3. Poté postupně přidávej ke žloutkům vyšlehané bílky. Smíchej dohromady v jemný krém. 
+4. Dále si vezmi rozpuštěný prášek a piškoty. Piškoty do něj rychle namáčej, jen 2 sekundy, aby se nerozmočily. 
+5. S tím přichází čas k vrstvení. 
 
-   * Vyšlehej žloutky a bílky zvlášť v odlišných nádobách. K vyšlehaným žloutkům přidej mascarpone a med, šlehej do hladka. 
-
-   * Poté postupně přidávej ke žloutkům vyšlehané bílky. Smíchej dohromady v jemný krém. 
-
-   * Dále si vezmi rozpuštěný prášek a piškoty. Piškoty do něj rychle namáčej, jen 2 sekundy, aby se nerozmočily. 
-
-   * S tím přichází čas k vrstvení. 
-
-     Vrstvíš: piškoty → krém → džem → piškoty → krém. 
-
-   * Připravený dezert nech ztuhnout v lednici cca 2 hodiny. 
-
-   * Před podáváním posyp práškem Anima Mundi Rose Heart Opener přes sítko a máš hotovo!
-
+   Vrstvíš: piškoty → krém → džem → piškoty → krém. 
+6. Připravený dezert nech ztuhnout v lednici cca 2 hodiny. 
+7. Před podáváním posyp práškem Anima Mundi Rose Heart Opener přes sítko a máš hotovo!
 
 ✺
 
 4 až 6 porcí
-
-
 
 Tvé tělo a mysl ti poděkuje!
