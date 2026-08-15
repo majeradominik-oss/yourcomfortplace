@@ -1,7 +1,7 @@
 ---
 title: Maskulinita x feminita
 description: Zeptala jsem se, jak by můj chlap popsal, jaké to je být muž, odpověděl ...
-pubDate: 2026-08-15
+pubDate: 2026-08-13
 category: Každodennost
 heroImage: /images/uploads/img_6645.jpeg
 ---
