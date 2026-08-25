@@ -4,7 +4,7 @@ description: Najdeš tady krátké shrnutí pár prvních rostlinek, které jsem
   prošla a na co ti můžou být dobré.
 pubDate: 2026-08-25
 category: Wellness
-heroImage: /images/uploads/img_6412.jpeg
+heroImage: /images/uploads/img_6106.jpeg
 ---
 Nedávno jsem se rozhodla, že si budu zjišťovat víc informací o bylinkách a čajích. A jak je můžu sama využívat. Vždycky si vezmu jednu rostlinku, zjistím si o ní co nejvíc a natočím o ní video na můj Instagram. Řekla jsem si, že už se mi jich pár nahromadilo a bylo by fajn to mít na jednom místě. Najdeš tady krátké shrnutí pár prvních rostlinek, které jsem si prošla a na co ti můžou být dobré.
 
