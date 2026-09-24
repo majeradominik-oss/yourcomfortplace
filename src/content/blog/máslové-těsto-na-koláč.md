@@ -10,7 +10,7 @@ Recept na těsto na koláč, ke kterému potřebuješ jen 4 ingredience ~
 
 **Ingredience:**
 
-\*1 a půl hrnku hladké mouky
+\*2 a půl hrnku hladké mouky
 
 \*230 g másla
 
