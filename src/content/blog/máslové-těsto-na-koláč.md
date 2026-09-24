@@ -14,7 +14,7 @@ Recept na těsto na koláč, ke kterému potřebuješ jen 4 ingredience ~
 
 \*230 g másla
 
-\*8 lžic studené vody
+\*8-15 lžic studené vody
 
 \*Špetka soli
 
