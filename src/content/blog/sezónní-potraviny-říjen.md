@@ -1,6 +1,6 @@
 ---
 title: Sezónní potraviny * říjen
-description: hrozny, oříšky, šípky, dýně, zelí a houby
+description: Hrozny, oříšky, šípky, dýně, zelí a houby
 pubDate: 2026-10-20
 category: Cooking diaries
 heroImage: /images/uploads/img_8919.jpeg
